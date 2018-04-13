@@ -1,0 +1,1184 @@
+﻿Log file open, 04/12/18 19:36:30
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: Leap_motion_demo
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1818946073) SRandInit(1818946073).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.162945
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LeapMotion
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LeapPluginLog: Using LeapPlugin version 2.0.0
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.12-18.36.30:900][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.12-18.36.30:900][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.12-18.36.30:912][  0]LogInit: Computer: DESKTOP-P0KGN8E
+[2018.04.12-18.36.30:912][  0]LogInit: User: OchukoStudios
+[2018.04.12-18.36.30:912][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.12-18.36.30:912][  0]LogInit: High frequency timer resolution =3.515624 MHz
+[2018.04.12-18.36.30:913][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.04.12-18.36.30:913][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.12-18.36.30:913][  0]LogMemory: Process Physical Memory: 284.34 MB used, 284.34 MB peak
+[2018.04.12-18.36.30:913][  0]LogMemory: Process Virtual Memory: 279.60 MB used, 279.60 MB peak
+[2018.04.12-18.36.30:913][  0]LogMemory: Physical Memory: 6937.73 MB used,  9389.41 MB free, 16327.14 MB total
+[2018.04.12-18.36.30:913][  0]LogMemory: Virtual Memory: 763.52 MB used,  9389.41 MB free, 134217728.00 MB total
+[2018.04.12-18.36.31:076][  0]LogInit: Using OS detected language (en-GB).
+[2018.04.12-18.36.31:076][  0]LogInit: Using OS detected locale (en-GB).
+[2018.04.12-18.36.31:078][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.04.12-18.36.31:678][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.12-18.36.31:722][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.04.12-18.36.31:722][  0]LogD3D11RHI:       6061/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.12-18.36.31:724][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.12-18.36.31:724][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.12-18.36.31:724][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.12-18.36.31:729][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.12-18.36.31:730][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.12-18.36.31:730][  0]LogWindows: EnumDisplayDevices:
+[2018.04.12-18.36.31:730][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2018.04.12-18.36.31:730][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.04.12-18.36.31:730][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.04.12-18.36.31:730][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.04.12-18.36.31:730][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.12-18.36.31:730][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.04.12-18.36.31:730][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.12-18.36.31:730][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.12-18.36.31:730][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.04.12-18.36.31:752][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.12-18.36.31:762][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.04.12-18.36.31:858][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Intermediate/Shaders/WorkingDirectory/15532/).
+[2018.04.12-18.36.31:859][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ochuko Studios/AppData/Local/Temp/UnrealShaderWorkingDir/DD34ED0E4CFC296D7E1E69938246B03E/'.
+[2018.04.12-18.36.31:859][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.12-18.36.32:717][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.12-18.36.32:771][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.12-18.36.32:829][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.12-18.36.32:882][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.12-18.36.32:940][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.12-18.36.32:990][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.12-18.36.33:047][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.12-18.36.33:108][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.12-18.36.33:153][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.12-18.36.33:206][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.12-18.36.33:251][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.12-18.36.33:303][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.12-18.36.33:359][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.12-18.36.33:412][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.12-18.36.33:460][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.12-18.36.33:555][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.12-18.36.33:555][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.12-18.36.33:596][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.12-18.36.33:687][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.12-18.36.33:717][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.12-18.36.33:764][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.12-18.36.33:816][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.12-18.36.33:863][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.12-18.36.33:912][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.12-18.36.33:912][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.12-18.36.34:397][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.12-18.36.34:471][  0]LogDerivedDataCache: Loaded boot cache 0.07s 93MB C:/Users/Ochuko Studios/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.04.12-18.36.34:471][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ochuko Studios/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.04.12-18.36.34:471][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.12-18.36.34:471][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.12-18.36.34:471][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.12-18.36.34:471][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.12-18.36.34:485][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.12-18.36.34:496][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ochuko Studios/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.12-18.36.34:505][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.12-18.36.34:506][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.12-18.36.34:506][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.12-18.36.34:506][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.12-18.36.34:741][  0]LogAssetRegistry: FAssetRegistry took 0.0268 seconds to start up
+[2018.04.12-18.36.34:854][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.12-18.36.34:986][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.04.12-18.36.35:274][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.12-18.36.35:314][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.12-18.36.35:314][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.12-18.36.35:314][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.12-18.36.35:314][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.12-18.36.35:314][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.12-18.36.35:630][  0]LogNetVersion: Leap_motion_demo , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3754505209)
+[2018.04.12-18.36.35:836][  0]LogPackageLocalizationCache: Processed 6 localized package path(s) for 2 prioritized culture(s) in 0.048949 seconds
+[2018.04.12-18.36.35:842][  0]LogUObjectArray: 36510 objects as part of root set at end of initial load.
+[2018.04.12-18.36.35:842][  0]LogUObjectAllocator: 7648144 out of 0 bytes used by permanent object pool.
+[2018.04.12-18.36.35:842][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.12-18.36.35:910][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.12-18.36.38:384][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.12-18.36.38:422][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.12-18.36.39:045][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.12-18.36.39:441][  0]SourceControl: Source control is disabled
+[2018.04.12-18.36.39:441][  0]SourceControl: Source control is disabled
+[2018.04.12-18.36.39:488][  0]SourceControl: Source control is disabled
+[2018.04.12-18.36.39:537][  0]SourceControl: Source control is disabled
+[2018.04.12-18.36.40:120][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.12-18.36.40:365][  0]LogOcInput: OculusInput pre-init called
+[2018.04.12-18.36.40:624][  0]LogEngine: Initializing Engine...
+[2018.04.12-18.36.40:625][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.12-18.36.40:815][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.12-18.36.40:815][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.12-18.36.40:944][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.12-18.36.40:952][  0]LogInit: XAudio2 using 'BenQ GW2270-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-18.36.40:962][  0]LogInit: FAudioDevice initialized.
+[2018.04.12-18.36.41:280][  0]LogDerivedDataCache: Saved boot cache 0.32s 93MB C:/Users/Ochuko Studios/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.04.12-18.36.41:292][  0]LogInit: Texture streaming: Enabled
+[2018.04.12-18.36.41:405][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.12-18.36.41:405][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={CD59942B-41D1-7EFB-62F6-88A0AAD8FA6F}
+[2018.04.12-18.36.41:617][  0]LogInit: Transaction tracking system initialized
+[2018.04.12-18.36.41:954][  0]BlueprintLog: New page: Editor Load
+[2018.04.12-18.36.42:863][  0]LocalizationService: Localization service is disabled
+[2018.04.12-18.36.43:397][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.04.12-18.36.43:397][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.04.12-18.36.43:397][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2018.04.12-18.36.43:589][  0]LogConsoleResponse: Display: 
+[2018.04.12-18.36.43:757][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.12-18.36.43:757][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.12-18.36.43:757][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.12-18.36.43:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Content/' took 0.01s
+[2018.04.12-18.36.44:814][  0]SourceControl: Source control is disabled
+[2018.04.12-18.36.44:904][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.12-18.36.44:904][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.12-18.37.02:863][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.12-18.37.02:867][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.12-18.37.06:795][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.12-18.37.06:798][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.12-18.37.06:823][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Content/Scenes/Final_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.12-18.37.06:824][  0]LightingResults: New page: Lighting Build
+[2018.04.12-18.37.06:907][  0]MapCheck: New page: Map Check
+[2018.04.12-18.37.06:907][  0]LightingResults: New page: Lighting Build
+[2018.04.12-18.37.07:303][  0]LogAIModule: Creating AISystem for world Final_Test
+[2018.04.12-18.37.07:310][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.12-18.37.07:448][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.12-18.37.07:532][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 83.706ms to complete.
+[2018.04.12-18.37.07:532][  0]LogFileHelpers: Loading map 'Final_Test' took 0.709
+[2018.04.12-18.37.07:615][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_3dc4_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_1158_0///####STATCAT_Advanced####
+[2018.04.12-18.37.07:615][  0]LogCollectionManager: Loaded 0 collections in 0.001519 seconds
+[2018.04.12-18.37.07:695][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Saved/Collections/' took 0.01s
+[2018.04.12-18.37.07:695][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Content/Developers/OchukoStudios/Collections/' took 0.01s
+[2018.04.12-18.37.07:695][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Content/Collections/' took 0.01s
+[2018.04.12-18.37.07:695][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.04.12-18.37.07:704][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2413 classes and 504 folders.
+[2018.04.12-18.37.07:766][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.04.12-18.37.07:803][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.04.12-18.37.07:855][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.04.12-18.37.08:722][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.12-18.37.08:727][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.12-18.37.08:848][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Leapmotiondemo
+[2018.04.12-18.37.08:848][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.04.12-18.37.08:848][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.17
+[2018.04.12-18.37.08:848][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.04.12-18.37.08:848][  0]LogTemp: BranchPath = DESKTOP-P0KGN8E/C/Program Files/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = DESKTOP-P0KGN8E/C/Program Files/Epic Games/UE_4.17/Engine/Binaries
+[2018.04.12-18.37.08:848][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Ochuko Studios\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.04.12-18.37.08:848][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.04.12-18.37.09:025][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.04.12-18.37.09:025][  0]LogLoad: (Engine Initialization) Total time: 39.74 seconds
+[2018.04.12-18.37.09:025][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.12-18.37.09:025][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.04.12-18.37.09:061][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.12-18.37.09:086][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.12-18.37.09:094][  1]LeapPluginLog: InterfaceObject: FinalPlayer_C_0
+[2018.04.12-18.37.09:131][  2]LogAssetRegistry: Asset discovery search completed in 34.4122 seconds
+[2018.04.12-18.37.09:133][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.12-18.37.09:133][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000064 seconds (updated 0 objects)
+[2018.04.12-18.37.10:077][106]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.12-18.37.13:766][536]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.12-18.37.14:094][536]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 113 classes and 0 folders.
+[2018.04.12-18.37.15:000][536]LogLinker: Warning: Can't resolve asset name
+[2018.04.12-18.37.15:003][536]LeapPluginLog: InterfaceObject: FinalPlayer_C_1
+[2018.04.12-18.37.15:003][536]LogBlueprintUserMessages: [Base_Tile_C_0] Hello
+[2018.04.12-18.37.15:006][536]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.12-18.37.15:400][537]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.12-18.37.54:999][178]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.12-18.37.55:054][178]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-18.37.55:054][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-18.37.55:055][178]PIE: New page: PIE session: Final_Test (12 Apr 2018 20:37:55)
+[2018.04.12-18.37.55:055][178]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Final_Test
+[2018.04.12-18.37.55:059][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003631s)
+[2018.04.12-18.37.55:060][178]LogAIModule: Creating AISystem for world Final_Test
+[2018.04.12-18.37.55:060][178]LogPlayLevel: PIE: World Init took: (0.001201s)
+[2018.04.12-18.37.55:061][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Final_Test.Final_Test to /Game/Scenes/UEDPIE_0_Final_Test.Final_Test (0.005128s)
+[2018.04.12-18.37.55:081][178]LogInit: XAudio2 using 'BenQ GW2270-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-18.37.55:087][178]LogInit: FAudioDevice initialized.
+[2018.04.12-18.37.55:131][178]LogLoad: Game class is 'NEW_GM_C'
+[2018.04.12-18.37.55:131][178]LeapPluginLog: InterfaceObject: NEW_GM_C_0
+[2018.04.12-18.37.55:131][178]LeapPluginLog: InterfaceObject: NEW_GM_C_0
+[2018.04.12-18.37.55:134][178]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Final_Test.Final_Test up for play (max tick rate 0) at 2018.04.12-19.37.55
+[2018.04.12-18.37.55:134][178]LogWorld: Bringing up level for play took: 0.001478
+[2018.04.12-18.37.55:176][178]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
+[2018.04.12-18.37.55:176][178]LeapPluginLog: InterfaceObject: FinalPlayer_C_0
+[2018.04.12-18.37.55:177][178]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Final_Test 1.062
+[2018.04.12-18.37.55:178][178]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-18.38.00:754][842]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-18.38.00:790][842]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-18.39.02:483][916]Cmd: TRANSACTION UNDO
+[2018.04.12-18.39.02:484][916]LogEditorTransaction: Undo Move Node
+[2018.04.12-18.39.02:869][961]Cmd: TRANSACTION UNDO
+[2018.04.12-18.39.02:869][961]LogEditorTransaction: Undo Delete current selection
+[2018.04.12-18.39.03:374][ 21]Cmd: TRANSACTION UNDO
+[2018.04.12-18.39.03:374][ 21]LogEditorTransaction: Undo Remove Variable
+[2018.04.12-18.39.13:632][234]BlueprintLog: New page: Compile Base_Tile
+[2018.04.12-18.39.15:748][450]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.12-18.39.15:788][450]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-18.39.15:788][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-18.39.15:788][450]PIE: New page: PIE session: Final_Test (12 Apr 2018 20:39:15)
+[2018.04.12-18.39.15:788][450]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Final_Test
+[2018.04.12-18.39.15:791][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002838s)
+[2018.04.12-18.39.15:791][450]LogAIModule: Creating AISystem for world Final_Test
+[2018.04.12-18.39.15:792][450]LogPlayLevel: PIE: World Init took: (0.000685s)
+[2018.04.12-18.39.15:792][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Final_Test.Final_Test to /Game/Scenes/UEDPIE_0_Final_Test.Final_Test (0.003750s)
+[2018.04.12-18.39.15:812][450]LogInit: XAudio2 using 'BenQ GW2270-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-18.39.15:818][450]LogInit: FAudioDevice initialized.
+[2018.04.12-18.39.15:847][450]LogLoad: Game class is 'NEW_GM_C'
+[2018.04.12-18.39.15:847][450]LeapPluginLog: InterfaceObject: NEW_GM_C_0
+[2018.04.12-18.39.15:847][450]LeapPluginLog: InterfaceObject: NEW_GM_C_0
+[2018.04.12-18.39.15:849][450]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Final_Test.Final_Test up for play (max tick rate 0) at 2018.04.12-19.39.15
+[2018.04.12-18.39.15:849][450]LogWorld: Bringing up level for play took: 0.001041
+[2018.04.12-18.39.15:850][450]LeapPluginLog: InterfaceObject: FinalPlayer_C_0
+[2018.04.12-18.39.15:850][450]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Final_Test -0.265
+[2018.04.12-18.39.15:851][450]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-18.39.17:294][622]LogBlueprintUserMessages: [Base_Tile_41] 1
+[2018.04.12-18.39.17:411][636]LogBlueprintUserMessages: [Base_Tile_41] 2
+[2018.04.12-18.39.17:428][638]LogBlueprintUserMessages: [Base_Tile_41] 3
+[2018.04.12-18.39.21:653][145]LogBlueprintUserMessages: [Base_Tile_41] 4
+[2018.04.12-18.39.21:770][159]LogBlueprintUserMessages: [Base_Tile_41] 5
+[2018.04.12-18.39.21:787][161]LogBlueprintUserMessages: [Base_Tile_41] 6
+[2018.04.12-18.39.22:862][290]LogBlueprintUserMessages: [Base_Tile_41] 7
+[2018.04.12-18.39.23:903][415]LogBlueprintUserMessages: [Base_Tile_41] 8
+[2018.04.12-18.39.24:020][429]LogBlueprintUserMessages: [Base_Tile_41] 9
+[2018.04.12-18.39.24:037][431]LogBlueprintUserMessages: [Base_Tile_41] 10
+[2018.04.12-18.39.25:096][558]LogBlueprintUserMessages: [Base_Tile_41] 11
+[2018.04.12-18.39.26:088][677]LogBlueprintUserMessages: [Base_Tile_41] 12
+[2018.04.12-18.39.26:204][691]LogBlueprintUserMessages: [Base_Tile_41] 13
+[2018.04.12-18.39.26:221][693]LogBlueprintUserMessages: [Base_Tile_41] 14
+[2018.04.12-18.39.27:046][792]LogBlueprintUserMessages: [Base_Tile_41] 15
+[2018.04.12-18.39.28:022][909]LogBlueprintUserMessages: [Base_Tile_41] 16
+[2018.04.12-18.39.28:140][923]LogBlueprintUserMessages: [Base_Tile_41] 17
+[2018.04.12-18.39.28:157][925]LogBlueprintUserMessages: [Base_Tile_41] 18
+[2018.04.12-18.39.28:800][  2]LogBlueprintUserMessages: [Base_Tile_41] 19
+[2018.04.12-18.39.29:958][141]LogBlueprintUserMessages: [Base_Tile_41] 20
+[2018.04.12-18.39.30:075][155]LogBlueprintUserMessages: [Base_Tile_41] 21
+[2018.04.12-18.39.30:092][157]LogBlueprintUserMessages: [Base_Tile_41] 22
+[2018.04.12-18.39.30:559][213]LogBlueprintUserMessages: [Base_Tile_41] 23
+[2018.04.12-18.39.31:954][380]LogBlueprintUserMessages: [Base_Tile_41] 24
+[2018.04.12-18.39.32:070][394]LogBlueprintUserMessages: [Base_Tile_41] 25
+[2018.04.12-18.39.32:087][396]LogBlueprintUserMessages: [Base_Tile_41] 26
+[2018.04.12-18.39.34:189][648]LogBlueprintUserMessages: [Base_Tile_41] 27
+[2018.04.12-18.39.34:306][662]LogBlueprintUserMessages: [Base_Tile_41] 28
+[2018.04.12-18.39.34:314][663]LogBlueprintUserMessages: [Base_Tile_41] 29
+[2018.04.12-18.39.36:332][905]LogBlueprintUserMessages: [Base_Tile_41] 30
+[2018.04.12-18.39.36:449][919]LogBlueprintUserMessages: [Base_Tile_41] 31
+[2018.04.12-18.39.36:466][921]LogBlueprintUserMessages: [Base_Tile_41] 32
+[2018.04.12-18.39.38:361][148]LogBlueprintUserMessages: [Base_Tile_41] 33
+[2018.04.12-18.39.38:478][162]LogBlueprintUserMessages: [Base_Tile_41] 34
+[2018.04.12-18.39.38:495][164]LogBlueprintUserMessages: [Base_Tile_41] 35
+[2018.04.12-18.39.50:240][572]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-18.39.50:278][572]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-18.40.23:171][481]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.12-18.40.23:204][481]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-18.40.23:204][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-18.40.23:204][481]PIE: New page: PIE session: Final_Test (12 Apr 2018 20:40:23)
+[2018.04.12-18.40.23:204][481]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Final_Test
+[2018.04.12-18.40.23:207][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002928s)
+[2018.04.12-18.40.23:207][481]LogAIModule: Creating AISystem for world Final_Test
+[2018.04.12-18.40.23:208][481]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2018.04.12-18.40.23:208][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Final_Test.Final_Test to /Game/Scenes/UEDPIE_0_Final_Test.Final_Test (0.003982s)
+[2018.04.12-18.40.23:228][481]LogInit: XAudio2 using 'BenQ GW2270-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-18.40.23:233][481]LogInit: FAudioDevice initialized.
+[2018.04.12-18.40.23:269][481]LogLoad: Game class is 'NEW_GM_C'
+[2018.04.12-18.40.23:269][481]LeapPluginLog: InterfaceObject: NEW_GM_C_0
+[2018.04.12-18.40.23:269][481]LeapPluginLog: InterfaceObject: NEW_GM_C_0
+[2018.04.12-18.40.23:271][481]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Final_Test.Final_Test up for play (max tick rate 0) at 2018.04.12-19.40.23
+[2018.04.12-18.40.23:271][481]LogWorld: Bringing up level for play took: 0.001342
+[2018.04.12-18.40.23:272][481]LeapPluginLog: InterfaceObject: FinalPlayer_C_0
+[2018.04.12-18.40.23:273][481]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Final_Test -0.843
+[2018.04.12-18.40.23:273][481]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-18.40.25:589][758]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.40.25:589][758]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.40.25:589][758]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.40.26:747][896]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.40.26:747][896]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.40.26:747][896]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.40.27:877][ 31]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.40.27:886][ 32]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.40.27:886][ 32]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.40.27:928][ 37]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.40.27:928][ 37]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.40.27:928][ 37]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.40.36:530][ 67]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.40.36:530][ 67]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.40.36:530][ 67]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.40.40:549][549]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.40.40:549][549]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.40.40:549][549]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.40.48:981][556]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.40.48:981][556]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.40.48:981][556]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.40.50:552][744]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.40.50:552][744]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.40.50:552][744]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.40.52:476][974]LogBlueprintUserMessages: [Base_Tile_41] 1
+[2018.04.12-18.40.52:601][989]LogBlueprintUserMessages: [Base_Tile_41] 2
+[2018.04.12-18.41.02:913][224]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.02:913][224]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.02:913][224]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.13:784][528]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.13:784][528]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.13:784][528]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.14:937][666]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.14:937][666]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.14:937][666]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.22:117][525]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.22:117][525]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.22:117][525]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.24:086][758]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.24:086][758]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.24:086][758]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.24:682][829]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.24:682][829]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.24:682][829]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.25:673][947]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.25:673][947]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.25:673][947]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.32:943][816]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.32:943][816]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.32:943][816]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.34:294][978]LogBlueprintUserMessages: [Base_Tile_41] 3
+[2018.04.12-18.41.34:394][990]LogBlueprintUserMessages: [Base_Tile_41] 4
+[2018.04.12-18.41.34:410][992]LogBlueprintUserMessages: [Base_Tile_41] 5
+[2018.04.12-18.41.39:253][572]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.39:253][572]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.39:253][572]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.41:263][812]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.41:264][812]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.41:264][812]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.42:439][952]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.42:439][952]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.42:439][952]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.42:681][981]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.42:681][981]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.42:681][981]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.43:108][ 32]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.43:109][ 32]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.43:109][ 32]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.43:384][ 65]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.43:384][ 65]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.43:384][ 65]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.44:648][216]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.44:648][216]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.44:648][216]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.50:049][864]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.50:049][864]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.50:049][864]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.50:166][878]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.50:167][878]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.50:167][878]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.50:333][898]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.50:333][898]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.50:333][898]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.51:740][ 65]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.51:740][ 65]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-18.41.51:740][ 65]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-18.41.56:853][677]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-18.41.56:889][677]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-18.48.32:108][ 72]LogHttp: Warning: 0000014839184100: request failed, libcurl error: 35 (SSL connect error)
+[2018.04.12-18.48.32:108][ 72]LogHttp: Warning: 0000014839184100: libcurl info message cache 0 (Connection 1 seems to be dead!)
+[2018.04.12-18.48.32:108][ 72]LogHttp: Warning: 0000014839184100: libcurl info message cache 1 (Closing connection 1)
+[2018.04.12-18.48.32:108][ 72]LogHttp: Warning: 0000014839184100: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.04.12-18.48.32:108][ 72]LogHttp: Warning: 0000014839184100: libcurl info message cache 3 (  Trying 18.232.41.123...)
+[2018.04.12-18.48.32:108][ 72]LogHttp: Warning: 0000014839184100: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (18.232.41.123) port 443 (#2))
+[2018.04.12-18.48.32:108][ 72]LogHttp: Warning: 0000014839184100: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.04.12-18.48.32:108][ 72]LogHttp: Warning: 0000014839184100: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.04.12-18.48.32:108][ 72]LogHttp: Warning: 0000014839184100: libcurl info message cache 7 (SSL re-using session ID)
+[2018.04.12-18.48.32:108][ 72]LogHttp: Warning: 0000014839184100: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.04.12-18.48.32:108][ 72]LogHttp: Warning: 0000014839184100: libcurl info message cache 9 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.04.12-18.48.32:108][ 72]LogHttp: Warning: 0000014839184100: libcurl info message cache 10 (Closing connection 2)
+[2018.04.12-18.49.22:960][147]LogSavePackage: Save=76.84ms
+[2018.04.12-18.49.22:960][147]LogSavePackage: Moving '../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Saved/Final_Test_Auto10067167D4FDAB1802C3ADD8824F9939C.tmp' to '../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Saved/Autosaves/Game/Scenes/Final_Test_Auto1.umap'
+[2018.04.12-18.49.22:961][147]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Saved/Autosaves/Game/Scenes/Final_Test_Auto1.umap
+[2018.04.12-18.49.22:965][147]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Final_Test' took 0.132
+[2018.04.12-18.49.22:965][147]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.132
+[2018.04.12-18.49.22:968][147]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/New_test/Mic/Movement_Tes/Base_Tile] ([1] browsable assets)...
+[2018.04.12-18.49.22:983][147]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/New_test/Mic/Movement_Tes/Base_Tile.Base_Tile]
+[2018.04.12-18.49.22:983][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/New_test/Mic/Movement_Tes/Base_Tile]
+[2018.04.12-18.49.23:043][147]LogSavePackage: Save=28.96ms
+[2018.04.12-18.49.23:043][147]LogSavePackage: Moving '../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Saved/Base_Tile_Auto1A4F631E34C90935CDEAD8E8864521D43.tmp' to '../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Saved/Autosaves/Game/Blueprints/New_test/Mic/Movement_Tes/Base_Tile_Auto1.uasset'
+[2018.04.12-18.49.23:044][147]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Saved/Autosaves/Game/Blueprints/New_test/Mic/Movement_Tes/Base_Tile_Auto1.uasset
+[2018.04.12-18.49.23:044][147]LogFileHelpers: Auto-saving content packages took 0.077
+[2018.04.12-18.53.29:319][622]BlueprintLog: New page: Compile Base_Tile
+[2018.04.12-18.53.32:845][  9]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.12-18.53.32:877][  9]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-18.53.32:877][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-18.53.32:878][  9]PIE: New page: PIE session: Final_Test (12 Apr 2018 20:53:32)
+[2018.04.12-18.53.32:878][  9]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Final_Test
+[2018.04.12-18.53.32:882][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004860s)
+[2018.04.12-18.53.32:883][  9]LogAIModule: Creating AISystem for world Final_Test
+[2018.04.12-18.53.32:883][  9]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2018.04.12-18.53.32:883][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Final_Test.Final_Test to /Game/Scenes/UEDPIE_0_Final_Test.Final_Test (0.005858s)
+[2018.04.12-18.53.32:903][  9]LogInit: XAudio2 using 'BenQ GW2270-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-18.53.32:909][  9]LogInit: FAudioDevice initialized.
+[2018.04.12-18.53.32:943][  9]LogLoad: Game class is 'NEW_GM_C'
+[2018.04.12-18.53.32:943][  9]LeapPluginLog: InterfaceObject: NEW_GM_C_0
+[2018.04.12-18.53.32:943][  9]LeapPluginLog: InterfaceObject: NEW_GM_C_0
+[2018.04.12-18.53.32:945][  9]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Final_Test.Final_Test up for play (max tick rate 0) at 2018.04.12-19.53.32
+[2018.04.12-18.53.32:946][  9]LogWorld: Bringing up level for play took: 0.001444
+[2018.04.12-18.53.32:947][  9]LeapPluginLog: InterfaceObject: FinalPlayer_C_0
+[2018.04.12-18.53.32:947][  9]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Final_Test 0.832
+[2018.04.12-18.53.32:948][  9]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-18.53.36:423][425]LogBlueprintUserMessages: [Base_Tile_41] 1
+[2018.04.12-18.53.36:423][425]LogBlueprintUserMessages: [Base_Tile_41] 2
+[2018.04.12-18.53.36:431][426]LogBlueprintUserMessages: [Base_Tile_41] 3
+[2018.04.12-18.53.36:432][426]LogBlueprintUserMessages: [Base_Tile_41] 4
+[2018.04.12-18.53.40:224][881]LogBlueprintUserMessages: [Base_Tile_41] 5
+[2018.04.12-18.53.40:224][881]LogBlueprintUserMessages: [Base_Tile_41] 6
+[2018.04.12-18.53.42:117][108]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-18.53.42:152][108]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-18.53.44:984][432]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.12-18.53.45:019][432]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-18.53.45:019][432]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-18.53.45:019][432]PIE: New page: PIE session: Final_Test (12 Apr 2018 20:53:45)
+[2018.04.12-18.53.45:019][432]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Final_Test
+[2018.04.12-18.53.45:022][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003353s)
+[2018.04.12-18.53.45:023][432]LogAIModule: Creating AISystem for world Final_Test
+[2018.04.12-18.53.45:023][432]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2018.04.12-18.53.45:023][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Final_Test.Final_Test to /Game/Scenes/UEDPIE_0_Final_Test.Final_Test (0.004306s)
+[2018.04.12-18.53.45:044][432]LogInit: XAudio2 using 'BenQ GW2270-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-18.53.45:051][432]LogInit: FAudioDevice initialized.
+[2018.04.12-18.53.45:084][432]LogLoad: Game class is 'NEW_GM_C'
+[2018.04.12-18.53.45:084][432]LeapPluginLog: InterfaceObject: NEW_GM_C_0
+[2018.04.12-18.53.45:084][432]LeapPluginLog: InterfaceObject: NEW_GM_C_0
+[2018.04.12-18.53.45:085][432]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Final_Test.Final_Test up for play (max tick rate 0) at 2018.04.12-19.53.45
+[2018.04.12-18.53.45:086][432]LogWorld: Bringing up level for play took: 0.000949
+[2018.04.12-18.53.45:086][432]LeapPluginLog: InterfaceObject: FinalPlayer_C_0
+[2018.04.12-18.53.45:087][432]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Final_Test 0.971
+[2018.04.12-18.53.45:087][432]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-18.53.48:439][833]LogBlueprintUserMessages: [Base_Tile_41] 1
+[2018.04.12-18.53.48:439][833]LogBlueprintUserMessages: [Base_Tile_41] 2
+[2018.04.12-18.53.52:965][376]LogBlueprintUserMessages: [Base_Tile_41] 3
+[2018.04.12-18.53.52:965][376]LogBlueprintUserMessages: [Base_Tile_41] 4
+[2018.04.12-18.53.52:973][377]LogBlueprintUserMessages: [Base_Tile_41] 5
+[2018.04.12-18.53.52:973][377]LogBlueprintUserMessages: [Base_Tile_41] 6
+[2018.04.12-18.53.56:165][760]LogBlueprintUserMessages: [Base_Tile_41] 7
+[2018.04.12-18.53.56:165][760]LogBlueprintUserMessages: [Base_Tile_41] 8
+[2018.04.12-18.53.58:568][ 48]LogBlueprintUserMessages: [Base_Tile_41] 9
+[2018.04.12-18.53.58:568][ 48]LogBlueprintUserMessages: [Base_Tile_41] 10
+[2018.04.12-18.53.58:577][ 49]LogBlueprintUserMessages: [Base_Tile_41] 11
+[2018.04.12-18.53.58:577][ 49]LogBlueprintUserMessages: [Base_Tile_41] 12
+[2018.04.12-18.53.59:427][151]LogBlueprintUserMessages: [Base_Tile_41] 13
+[2018.04.12-18.53.59:427][151]LogBlueprintUserMessages: [Base_Tile_41] 14
+[2018.04.12-18.54.00:235][248]LogBlueprintUserMessages: [Base_Tile_41] 15
+[2018.04.12-18.54.00:235][248]LogBlueprintUserMessages: [Base_Tile_41] 16
+[2018.04.12-18.54.01:553][406]LogBlueprintUserMessages: [Base_Tile_41] 17
+[2018.04.12-18.54.01:553][406]LogBlueprintUserMessages: [Base_Tile_41] 18
+[2018.04.12-18.54.01:561][407]LogBlueprintUserMessages: [Base_Tile_41] 19
+[2018.04.12-18.54.01:561][407]LogBlueprintUserMessages: [Base_Tile_41] 20
+[2018.04.12-18.54.03:789][674]LogBlueprintUserMessages: [Base_Tile_41] 21
+[2018.04.12-18.54.03:789][674]LogBlueprintUserMessages: [Base_Tile_41] 22
+[2018.04.12-18.54.03:797][675]LogBlueprintUserMessages: [Base_Tile_41] 23
+[2018.04.12-18.54.03:797][675]LogBlueprintUserMessages: [Base_Tile_41] 24
+[2018.04.12-18.54.06:064][947]LogBlueprintUserMessages: [Base_Tile_41] 25
+[2018.04.12-18.54.06:064][947]LogBlueprintUserMessages: [Base_Tile_41] 26
+[2018.04.12-18.54.06:072][948]LogBlueprintUserMessages: [Base_Tile_41] 27
+[2018.04.12-18.54.06:073][948]LogBlueprintUserMessages: [Base_Tile_41] 28
+[2018.04.12-18.54.08:323][218]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-18.54.08:357][218]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-18.54.39:361][921]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.12-18.54.39:393][921]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-18.54.39:393][921]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-18.54.39:393][921]PIE: New page: PIE session: Final_Test (12 Apr 2018 20:54:39)
+[2018.04.12-18.54.39:393][921]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Final_Test
+[2018.04.12-18.54.39:397][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003700s)
+[2018.04.12-18.54.39:398][921]LogAIModule: Creating AISystem for world Final_Test
+[2018.04.12-18.54.39:398][921]LogPlayLevel: PIE: World Init took: (0.000659s)
+[2018.04.12-18.54.39:398][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Final_Test.Final_Test to /Game/Scenes/UEDPIE_0_Final_Test.Final_Test (0.004561s)
+[2018.04.12-18.54.39:417][921]LogInit: XAudio2 using 'BenQ GW2270-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-18.54.39:423][921]LogInit: FAudioDevice initialized.
+[2018.04.12-18.54.39:454][921]LogLoad: Game class is 'NEW_GM_C'
+[2018.04.12-18.54.39:454][921]LeapPluginLog: InterfaceObject: NEW_GM_C_0
+[2018.04.12-18.54.39:454][921]LeapPluginLog: InterfaceObject: NEW_GM_C_0
+[2018.04.12-18.54.39:456][921]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Final_Test.Final_Test up for play (max tick rate 0) at 2018.04.12-19.54.39
+[2018.04.12-18.54.39:456][921]LogWorld: Bringing up level for play took: 0.001145
+[2018.04.12-18.54.39:457][921]LeapPluginLog: InterfaceObject: FinalPlayer_C_0
+[2018.04.12-18.54.39:457][921]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Final_Test -0.658
+[2018.04.12-18.54.39:458][921]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-18.54.48:344][986]LogBlueprintUserMessages: [Base_Tile_41] 1
+[2018.04.12-18.54.48:345][986]LogBlueprintUserMessages: [Base_Tile_41] 2
+[2018.04.12-18.54.48:353][987]LogBlueprintUserMessages: [Base_Tile_41] 3
+[2018.04.12-18.54.48:353][987]LogBlueprintUserMessages: [Base_Tile_41] 4
+[2018.04.12-18.54.50:221][211]LogBlueprintUserMessages: [Base_Tile_41] 5
+[2018.04.12-18.54.50:221][211]LogBlueprintUserMessages: [Base_Tile_41] 6
+[2018.04.12-18.54.50:229][212]LogBlueprintUserMessages: [Base_Tile_41] 7
+[2018.04.12-18.54.50:229][212]LogBlueprintUserMessages: [Base_Tile_41] 8
+[2018.04.12-18.54.51:880][410]LogBlueprintUserMessages: [Base_Tile_41] 9
+[2018.04.12-18.54.51:880][410]LogBlueprintUserMessages: [Base_Tile_41] 10
+[2018.04.12-18.54.51:889][411]LogBlueprintUserMessages: [Base_Tile_41] 11
+[2018.04.12-18.54.51:889][411]LogBlueprintUserMessages: [Base_Tile_41] 12
+[2018.04.12-18.54.52:964][540]LogBlueprintUserMessages: [Base_Tile_41] 13
+[2018.04.12-18.54.52:964][540]LogBlueprintUserMessages: [Base_Tile_41] 14
+[2018.04.12-18.54.58:750][234]LogBlueprintUserMessages: [Base_Tile_41] 15
+[2018.04.12-18.54.58:750][234]LogBlueprintUserMessages: [Base_Tile_41] 16
+[2018.04.12-18.54.58:758][235]LogBlueprintUserMessages: [Base_Tile_41] 17
+[2018.04.12-18.54.58:758][235]LogBlueprintUserMessages: [Base_Tile_41] 18
+[2018.04.12-18.55.01:134][520]LogBlueprintUserMessages: [Base_Tile_41] 19
+[2018.04.12-18.55.01:134][520]LogBlueprintUserMessages: [Base_Tile_41] 20
+[2018.04.12-18.55.01:143][521]LogBlueprintUserMessages: [Base_Tile_41] 21
+[2018.04.12-18.55.01:143][521]LogBlueprintUserMessages: [Base_Tile_41] 22
+[2018.04.12-18.55.03:427][795]LogBlueprintUserMessages: [Base_Tile_41] 23
+[2018.04.12-18.55.03:427][795]LogBlueprintUserMessages: [Base_Tile_41] 24
+[2018.04.12-18.55.03:435][796]LogBlueprintUserMessages: [Base_Tile_41] 25
+[2018.04.12-18.55.03:435][796]LogBlueprintUserMessages: [Base_Tile_41] 26
+[2018.04.12-18.55.05:778][ 75]LogBlueprintUserMessages: [Base_Tile_41] 27
+[2018.04.12-18.55.05:778][ 75]LogBlueprintUserMessages: [Base_Tile_41] 28
+[2018.04.12-18.55.05:786][ 76]LogBlueprintUserMessages: [Base_Tile_41] 29
+[2018.04.12-18.55.05:786][ 76]LogBlueprintUserMessages: [Base_Tile_41] 30
+[2018.04.12-18.55.09:680][542]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-18.55.09:714][542]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-18.57.29:837][295]LogHttp: Warning: 0000014877C5A800: request failed, libcurl error: 35 (SSL connect error)
+[2018.04.12-18.57.29:837][295]LogHttp: Warning: 0000014877C5A800: libcurl info message cache 0 (Connection 4 seems to be dead!)
+[2018.04.12-18.57.29:837][295]LogHttp: Warning: 0000014877C5A800: libcurl info message cache 1 (Closing connection 4)
+[2018.04.12-18.57.29:837][295]LogHttp: Warning: 0000014877C5A800: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.04.12-18.57.29:837][295]LogHttp: Warning: 0000014877C5A800: libcurl info message cache 3 (  Trying 52.206.67.180...)
+[2018.04.12-18.57.29:837][295]LogHttp: Warning: 0000014877C5A800: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (52.206.67.180) port 443 (#5))
+[2018.04.12-18.57.29:837][295]LogHttp: Warning: 0000014877C5A800: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.04.12-18.57.29:837][295]LogHttp: Warning: 0000014877C5A800: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.04.12-18.57.29:837][295]LogHttp: Warning: 0000014877C5A800: libcurl info message cache 7 (SSL re-using session ID)
+[2018.04.12-18.57.29:837][295]LogHttp: Warning: 0000014877C5A800: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.04.12-18.57.29:837][295]LogHttp: Warning: 0000014877C5A800: libcurl info message cache 9 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.04.12-18.57.29:837][295]LogHttp: Warning: 0000014877C5A800: libcurl info message cache 10 (Closing connection 5)
+[2018.04.12-19.00.26:778][796]LogSavePackage: Save=73.85ms
+[2018.04.12-19.00.26:778][796]LogSavePackage: Moving '../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Saved/Final_Test_Auto216487C224F487AC1E461BBB12D03DEF6.tmp' to '../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Saved/Autosaves/Game/Scenes/Final_Test_Auto2.umap'
+[2018.04.12-19.00.26:779][796]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Saved/Autosaves/Game/Scenes/Final_Test_Auto2.umap
+[2018.04.12-19.00.26:781][796]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Final_Test' took 0.127
+[2018.04.12-19.00.26:781][796]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.127
+[2018.04.12-19.00.26:783][796]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/New_test/Mic/Movement_Tes/Base_Tile] ([1] browsable assets)...
+[2018.04.12-19.00.26:801][796]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/New_test/Mic/Movement_Tes/Base_Tile.Base_Tile]
+[2018.04.12-19.00.26:801][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/New_test/Mic/Movement_Tes/Base_Tile]
+[2018.04.12-19.00.26:862][796]LogSavePackage: Save=30.36ms
+[2018.04.12-19.00.26:862][796]LogSavePackage: Moving '../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Saved/Base_Tile_Auto23BEE3BA4428DE23D398F95B47A27A35D.tmp' to '../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Saved/Autosaves/Game/Blueprints/New_test/Mic/Movement_Tes/Base_Tile_Auto2.uasset'
+[2018.04.12-19.00.26:863][796]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Saved/Autosaves/Game/Blueprints/New_test/Mic/Movement_Tes/Base_Tile_Auto2.uasset
+[2018.04.12-19.00.26:863][796]LogFileHelpers: Auto-saving content packages took 0.081
+[2018.04.12-19.52.50:971][140]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.12-19.52.51:009][140]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-19.52.51:009][140]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.12-19.52.51:013][140]LogPlayLevel: [PlayLevel] Compiling Base_Tile before play...
+[2018.04.12-19.52.51:016][140]LogPlayLevel: [PlayLevel]   Compiling Final_Test as a dependent...
+[2018.04.12-19.52.51:298][140]LogPlayLevel: PlayLevel: Blueprint regeneration took 288 ms (2 blueprints)
+[2018.04.12-19.52.51:298][140]PIE: New page: PIE session: Final_Test (12 Apr 2018 21:52:51)
+[2018.04.12-19.52.51:298][140]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Final_Test
+[2018.04.12-19.52.51:301][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003106s)
+[2018.04.12-19.52.51:302][140]LogAIModule: Creating AISystem for world Final_Test
+[2018.04.12-19.52.51:302][140]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2018.04.12-19.52.51:302][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Final_Test.Final_Test to /Game/Scenes/UEDPIE_0_Final_Test.Final_Test (0.004208s)
+[2018.04.12-19.52.51:321][140]LogInit: XAudio2 using 'BenQ GW2270-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-19.52.51:328][140]LogInit: FAudioDevice initialized.
+[2018.04.12-19.52.51:362][140]LogLoad: Game class is 'NEW_GM_C'
+[2018.04.12-19.52.51:362][140]LeapPluginLog: InterfaceObject: NEW_GM_C_0
+[2018.04.12-19.52.51:363][140]LeapPluginLog: InterfaceObject: NEW_GM_C_0
+[2018.04.12-19.52.51:364][140]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Final_Test.Final_Test up for play (max tick rate 0) at 2018.04.12-20.52.51
+[2018.04.12-19.52.51:365][140]LogWorld: Bringing up level for play took: 0.001376
+[2018.04.12-19.52.51:366][140]LeapPluginLog: InterfaceObject: FinalPlayer_C_0
+[2018.04.12-19.52.51:366][140]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Final_Test 1.25
+[2018.04.12-19.52.51:366][140]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-19.52.53:903][443]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.52.53:903][443]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.52.53:903][443]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.52.53:962][450]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.52.53:962][450]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.52.53:962][450]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.52.57:575][883]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-19.52.57:613][883]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-19.53.11:368][518]Cmd: SELECT NONE
+[2018.04.12-19.53.13:915][823]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.12-19.53.13:949][823]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-19.53.13:949][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-19.53.13:949][823]PIE: New page: PIE session: Final_Test (12 Apr 2018 21:53:13)
+[2018.04.12-19.53.13:949][823]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Final_Test
+[2018.04.12-19.53.13:952][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003266s)
+[2018.04.12-19.53.13:953][823]LogAIModule: Creating AISystem for world Final_Test
+[2018.04.12-19.53.13:953][823]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2018.04.12-19.53.13:953][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Final_Test.Final_Test to /Game/Scenes/UEDPIE_0_Final_Test.Final_Test (0.004272s)
+[2018.04.12-19.53.13:974][823]LogInit: XAudio2 using 'BenQ GW2270-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-19.53.13:979][823]LogInit: FAudioDevice initialized.
+[2018.04.12-19.53.14:014][823]LogLoad: Game class is 'NEW_GM_C'
+[2018.04.12-19.53.14:015][823]LeapPluginLog: InterfaceObject: NEW_GM_C_0
+[2018.04.12-19.53.14:015][823]LeapPluginLog: InterfaceObject: NEW_GM_C_0
+[2018.04.12-19.53.14:017][823]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Final_Test.Final_Test up for play (max tick rate 0) at 2018.04.12-20.53.14
+[2018.04.12-19.53.14:017][823]LogWorld: Bringing up level for play took: 0.001516
+[2018.04.12-19.53.14:018][823]LeapPluginLog: InterfaceObject: FinalPlayer_C_0
+[2018.04.12-19.53.14:019][823]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Final_Test -0.097
+[2018.04.12-19.53.14:019][823]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-19.53.15:904][ 48]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.53.15:904][ 48]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.53.15:904][ 48]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.53.21:900][765]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.53.21:900][765]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.53.21:900][765]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.53.22:497][836]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.53.22:497][836]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.53.22:497][836]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.53.22:513][838]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.53.22:513][838]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.53.22:513][838]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.53.25:232][163]LogBlueprintUserMessages: [Base_Tile_41] 1
+[2018.04.12-19.53.25:233][163]LogBlueprintUserMessages: [Base_Tile_41] 2
+[2018.04.12-19.53.25:241][164]LogBlueprintUserMessages: [Base_Tile_41] 3
+[2018.04.12-19.53.25:241][164]LogBlueprintUserMessages: [Base_Tile_41] 4
+[2018.04.12-19.53.25:826][234]LogBlueprintUserMessages: [Base_Tile_41] 5
+[2018.04.12-19.53.25:826][234]LogBlueprintUserMessages: [Base_Tile_41] 6
+[2018.04.12-19.53.26:879][360]LogBlueprintUserMessages: [Base_Tile_41] 7
+[2018.04.12-19.53.26:879][360]LogBlueprintUserMessages: [Base_Tile_41] 8
+[2018.04.12-19.53.29:578][683]LogBlueprintUserMessages: [Base_Tile_41] 9
+[2018.04.12-19.53.29:578][683]LogBlueprintUserMessages: [Base_Tile_41] 10
+[2018.04.12-19.53.30:463][789]LogBlueprintUserMessages: [Base_Tile_41] 11
+[2018.04.12-19.53.30:463][789]LogBlueprintUserMessages: [Base_Tile_41] 12
+[2018.04.12-19.53.34:211][236]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.53.34:212][236]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.53.34:212][236]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.53.35:698][414]LogBlueprintUserMessages: [Base_Tile_41] 13
+[2018.04.12-19.53.35:698][414]LogBlueprintUserMessages: [Base_Tile_41] 14
+[2018.04.12-19.53.35:707][415]LogBlueprintUserMessages: [Base_Tile_41] 15
+[2018.04.12-19.53.35:707][415]LogBlueprintUserMessages: [Base_Tile_41] 16
+[2018.04.12-19.53.37:319][608]LogBlueprintUserMessages: [Base_Tile_41] 17
+[2018.04.12-19.53.37:319][608]LogBlueprintUserMessages: [Base_Tile_41] 18
+[2018.04.12-19.53.37:327][609]LogBlueprintUserMessages: [Base_Tile_41] 19
+[2018.04.12-19.53.37:327][609]LogBlueprintUserMessages: [Base_Tile_41] 20
+[2018.04.12-19.53.40:342][970]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.53.40:342][970]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.53.40:342][970]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.53.40:484][987]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.53.40:484][987]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.53.40:484][987]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.53.40:627][  4]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.53.40:627][  4]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.53.40:627][  4]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.53.44:055][415]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.53.44:055][415]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.53.44:055][415]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.53.52:924][477]LogBlueprintUserMessages: [Base_Tile_41] 21
+[2018.04.12-19.53.52:924][477]LogBlueprintUserMessages: [Base_Tile_41] 22
+[2018.04.12-19.53.52:933][478]LogBlueprintUserMessages: [Base_Tile_41] 23
+[2018.04.12-19.53.52:933][478]LogBlueprintUserMessages: [Base_Tile_41] 24
+[2018.04.12-19.53.54:073][614]LogBlueprintUserMessages: [Base_Tile_41] 25
+[2018.04.12-19.53.54:073][614]LogBlueprintUserMessages: [Base_Tile_41] 26
+[2018.04.12-19.53.54:081][615]LogBlueprintUserMessages: [Base_Tile_41] 27
+[2018.04.12-19.53.54:081][615]LogBlueprintUserMessages: [Base_Tile_41] 28
+[2018.04.12-19.53.56:776][936]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.53.56:776][936]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.53.56:776][936]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.53.56:776][936]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.53.56:776][936]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.53.56:776][936]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.53.58:592][153]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.53.58:592][153]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.53.58:592][153]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.53.59:369][246]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.53.59:369][246]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.53.59:369][246]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.54.01:772][532]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.54.01:772][532]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.54.01:772][532]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.54.01:831][539]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.54.01:831][539]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.54.01:831][539]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.54.05:233][946]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.54.05:233][946]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.54.05:233][946]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.54.08:748][367]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.54.08:748][367]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.54.08:748][367]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.54.18:306][510]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.54.18:306][510]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.54.18:306][510]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.54.18:769][565]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-19.54.18:804][565]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-19.54.38:628][899]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.12-19.54.38:670][899]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-19.54.38:670][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.12-19.54.38:670][899]PIE: New page: PIE session: Final_Test (12 Apr 2018 21:54:38)
+[2018.04.12-19.54.38:670][899]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Final_Test
+[2018.04.12-19.54.38:674][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003792s)
+[2018.04.12-19.54.38:675][899]LogAIModule: Creating AISystem for world Final_Test
+[2018.04.12-19.54.38:675][899]LogPlayLevel: PIE: World Init took: (0.001051s)
+[2018.04.12-19.54.38:675][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Final_Test.Final_Test to /Game/Scenes/UEDPIE_0_Final_Test.Final_Test (0.005116s)
+[2018.04.12-19.54.38:701][899]LogInit: XAudio2 using 'BenQ GW2270-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-19.54.38:706][899]LogInit: FAudioDevice initialized.
+[2018.04.12-19.54.38:741][899]LogLoad: Game class is 'NEW_GM_C'
+[2018.04.12-19.54.38:741][899]LeapPluginLog: InterfaceObject: NEW_GM_C_0
+[2018.04.12-19.54.38:741][899]LeapPluginLog: InterfaceObject: NEW_GM_C_0
+[2018.04.12-19.54.38:744][899]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Final_Test.Final_Test up for play (max tick rate 0) at 2018.04.12-20.54.38
+[2018.04.12-19.54.38:744][899]LogWorld: Bringing up level for play took: 0.001790
+[2018.04.12-19.54.38:745][899]LeapPluginLog: InterfaceObject: FinalPlayer_C_0
+[2018.04.12-19.54.38:746][899]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Final_Test 0.63
+[2018.04.12-19.54.38:746][899]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-19.54.39:792][ 23]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.54.39:792][ 23]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.54.39:792][ 23]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.54.45:779][727]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.54.45:779][727]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.54.45:779][727]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.54.46:398][800]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.54.46:398][800]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.54.46:398][800]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.54.50:828][325]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.54.50:828][325]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.54.50:828][325]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.54.51:924][454]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.54.51:925][454]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.54.51:925][454]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.54.52:110][476]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.54.52:110][476]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.54.52:110][476]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.54.52:370][507]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.54.52:371][507]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.54.52:371][507]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.54.52:555][529]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.54.52:556][529]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.54.52:556][529]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.54.59:441][343]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.54.59:441][343]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.54.59:441][343]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.54.59:450][344]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.54.59:451][344]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.54.59:451][344]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.55.03:679][840]LogBlueprintUserMessages: [Base_Tile_41] 1
+[2018.04.12-19.55.03:679][840]LogBlueprintUserMessages: [Base_Tile_41] 2
+[2018.04.12-19.55.03:688][841]LogBlueprintUserMessages: [Base_Tile_41] 3
+[2018.04.12-19.55.03:688][841]LogBlueprintUserMessages: [Base_Tile_41] 4
+[2018.04.12-19.55.08:536][410]LogBlueprintUserMessages: [Base_Tile_41] 5
+[2018.04.12-19.55.08:537][410]LogBlueprintUserMessages: [Base_Tile_41] 6
+[2018.04.12-19.55.08:545][411]LogBlueprintUserMessages: [Base_Tile_41] 7
+[2018.04.12-19.55.08:545][411]LogBlueprintUserMessages: [Base_Tile_41] 8
+[2018.04.12-19.55.09:910][572]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.55.09:910][572]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.55.09:910][572]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.55.09:937][575]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.55.09:937][575]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.55.09:937][575]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.55.10:968][696]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.55.10:968][696]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.55.10:968][696]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.55.11:011][701]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.55.11:011][701]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.55.11:011][701]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.55.11:044][705]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.55.11:044][705]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.55.11:045][705]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.55.11:131][715]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.55.11:131][715]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.55.11:131][715]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.55.11:764][788]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.55.11:764][788]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.55.11:764][788]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.55.11:932][808]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.55.11:932][808]LogBlueprintUserMessages: [FinalPlayer_C_0] off
+[2018.04.12-19.55.11:932][808]LogBlueprintUserMessages: [FinalPlayer_C_0] on
+[2018.04.12-19.55.15:240][203]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-19.55.15:273][203]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Final_Test.Final_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test' with GeneratedClass '/Game/Scenes/Final_Test.Final_Test_C' with ClassGeneratedBy '/Game/Scenes/Final_Test.Final_Test:PersistentLevel.Final_Test'
+[2018.04.12-19.55.42:355][571]LogSavePackage: Save=75.64ms
+[2018.04.12-19.55.42:355][571]LogSavePackage: Moving '../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Saved/Final_Test_Auto34CD4932D4D00FF0B2D826E93BDAD1DF0.tmp' to '../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Saved/Autosaves/Game/Scenes/Final_Test_Auto3.umap'
+[2018.04.12-19.55.42:357][571]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Saved/Autosaves/Game/Scenes/Final_Test_Auto3.umap
+[2018.04.12-19.55.42:359][571]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Final_Test' took 0.129
+[2018.04.12-19.55.42:359][571]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.129
+[2018.04.12-19.55.42:361][571]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/New_test/Mic/Movement_Tes/Base_Tile] ([1] browsable assets)...
+[2018.04.12-19.55.42:371][571]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/New_test/Mic/Movement_Tes/Base_Tile.Base_Tile]
+[2018.04.12-19.55.42:371][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/New_test/Mic/Movement_Tes/Base_Tile]
+[2018.04.12-19.55.42:436][571]LogSavePackage: Save=33.01ms
+[2018.04.12-19.55.42:436][571]LogSavePackage: Moving '../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Saved/Base_Tile_Auto394BC51EC4F3D21FA5A5D948378B09917.tmp' to '../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Saved/Autosaves/Game/Blueprints/New_test/Mic/Movement_Tes/Base_Tile_Auto3.uasset'
+[2018.04.12-19.55.42:437][571]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Saved/Autosaves/Game/Blueprints/New_test/Mic/Movement_Tes/Base_Tile_Auto3.uasset
+[2018.04.12-19.55.42:437][571]LogFileHelpers: Auto-saving content packages took 0.077
+[2018.04.12-20.38.52:901][603]LogSavePackage: Save=95.89ms
+[2018.04.12-20.38.52:901][603]LogSavePackage: Moving '../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Saved/Final_TestA4C801A84178D59E0D1B618BE304ECF8.tmp' to '../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Content/Scenes/Final_Test.umap'
+[2018.04.12-20.38.52:907][603]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Content/Scenes/Final_Test.umap
+[2018.04.12-20.38.52:972][603]LogFileHelpers: Saving map 'Final_Test' took 0.268
+[2018.04.12-20.38.53:030][603]LogSavePackage: Save=25.36ms
+[2018.04.12-20.38.53:030][603]LogSavePackage: Moving '../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Saved/Base_Tile4865ED6945A557A3B19AD0B5457517EC.tmp' to '../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Content/Blueprints/New_test/Mic/Movement_Tes/Base_Tile.uasset'
+[2018.04.12-20.38.53:035][603]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Content/Blueprints/New_test/Mic/Movement_Tes/Base_Tile.uasset
+[2018.04.12-20.38.54:155][688]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.12-20.38.54:299][688]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.12-20.38.54:638][689]Cmd: QUIT_EDITOR
+[2018.04.12-20.38.55:103][689]LogExit: Preparing to exit.
+[2018.04.12-20.38.55:889][689]LogDirectoryWatcher: A directory notification for 'C:/Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Content/' was aborted.
+[2018.04.12-20.38.55:983][689]LogExit: Editor shut down
+[2018.04.12-20.38.56:007][689]LogExit: Transaction tracking system shut down
+[2018.04.12-20.38.56:204][689]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.04.12-20.38.56:204][689]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Content/' was aborted.
+[2018.04.12-20.38.56:204][689]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.04.12-20.38.56:204][689]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/LeapMotion/Content/' was aborted.
+[2018.04.12-20.38.56:204][689]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.04.12-20.38.56:204][689]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.04.12-20.38.56:481][689]LogExit: Object subsystem successfully closed.
+[2018.04.12-20.38.56:506][689]LogD3D11RHI: Shutdown
+[2018.04.12-20.38.56:506][689]LogD3D11RHI: CleanupD3DDevice
+[2018.04.12-20.38.56:579][689]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.12-20.38.56:593][689]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (540)
+[2018.04.12-20.38.56:593][689]LogModuleManager: Shutting down and abandoning module BlueprintGraph (538)
+[2018.04.12-20.38.56:593][689]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (536)
+[2018.04.12-20.38.56:593][689]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (534)
+[2018.04.12-20.38.56:593][689]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (532)
+[2018.04.12-20.38.56:593][689]LogModuleManager: Shutting down and abandoning module SceneOutliner (530)
+[2018.04.12-20.38.56:593][689]LogModuleManager: Shutting down and abandoning module AddContentDialog (528)
+[2018.04.12-20.38.56:593][689]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2018.04.12-20.38.56:598][689]LogModuleManager: Shutting down and abandoning module WidgetCarousel (527)
+[2018.04.12-20.38.56:598][689]LogModuleManager: Shutting down and abandoning module EditorWidgets (524)
+[2018.04.12-20.38.56:598][689]LogModuleManager: Shutting down and abandoning module CollectionManager (522)
+[2018.04.12-20.38.56:598][689]LogDirectoryWatcher: A directory notification for 'C:/Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Content/Collections/' was aborted.
+[2018.04.12-20.38.56:598][689]LogDirectoryWatcher: A directory notification for 'C:/Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Content/Developers/OchukoStudios/Collections/' was aborted.
+[2018.04.12-20.38.56:598][689]LogDirectoryWatcher: A directory notification for 'C:/Users/Ochuko Studios/Desktop/Final-Year-Project/Final-Artefact/Leap_motion_demo/Saved/Collections/' was aborted.
+[2018.04.12-20.38.56:598][689]LogModuleManager: Shutting down and abandoning module StatsViewer (520)
+[2018.04.12-20.38.56:598][689]LogModuleManager: Shutting down and abandoning module FoliageEdit (518)
+[2018.04.12-20.38.56:598][689]LogModuleManager: Shutting down and abandoning module LandscapeEditor (516)
+[2018.04.12-20.38.56:598][689]LogModuleManager: Shutting down and abandoning module MeshPaintMode (514)
+[2018.04.12-20.38.56:598][689]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (512)
+[2018.04.12-20.38.56:598][689]LogModuleManager: Shutting down and abandoning module ActorPickerMode (510)
+[2018.04.12-20.38.56:598][689]LogModuleManager: Shutting down and abandoning module GeometryMode (508)
+[2018.04.12-20.38.56:598][689]LogModuleManager: Shutting down and abandoning module TextureAlignMode (506)
+[2018.04.12-20.38.56:598][689]LogModuleManager: Shutting down and abandoning module BspMode (504)
+[2018.04.12-20.38.56:598][689]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (502)
+[2018.04.12-20.38.56:598][689]LogModuleManager: Shutting down and abandoning module HardwareSurvey (500)
+[2018.04.12-20.38.56:598][689]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (498)
+[2018.04.12-20.38.56:598][689]LogModuleManager: Shutting down and abandoning module AutomationWorker (496)
+[2018.04.12-20.38.56:598][689]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (494)
+[2018.04.12-20.38.56:599][689]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (492)
+[2018.04.12-20.38.56:599][689]LogModuleManager: Shutting down and abandoning module PlacementMode (491)
+[2018.04.12-20.38.56:599][689]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (488)
+[2018.04.12-20.38.56:599][689]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (486)
+[2018.04.12-20.38.56:599][689]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (484)
+[2018.04.12-20.38.56:599][689]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (482)
+[2018.04.12-20.38.56:599][689]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (480)
+[2018.04.12-20.38.56:599][689]LogModuleManager: Shutting down and abandoning module Media (479)
+[2018.04.12-20.38.56:599][689]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (476)
+[2018.04.12-20.38.56:599][689]LogModuleManager: Shutting down and abandoning module CharacterAI (474)
+[2018.04.12-20.38.56:599][689]LogModuleManager: Shutting down and abandoning module AudioCapture (472)
+[2018.04.12-20.38.56:599][689]LogModuleManager: Shutting down and abandoning module SequenceRecorder (471)
+[2018.04.12-20.38.56:599][689]LogModuleManager: Shutting down and abandoning module SmartSnapping (468)
+[2018.04.12-20.38.56:599][689]LogModuleManager: Shutting down and abandoning module SessionServices (466)
+[2018.04.12-20.38.56:599][689]LogModuleManager: Shutting down and abandoning module ViewportSnapping (464)
+[2018.04.12-20.38.56:599][689]LogModuleManager: Shutting down and abandoning module ViewportInteraction (462)
+[2018.04.12-20.38.56:599][689]LogModuleManager: Shutting down and abandoning module ClothPainter (460)
+[2018.04.12-20.38.56:599][689]LogModuleManager: Shutting down and abandoning module LogVisualizer (458)
+[2018.04.12-20.38.56:599][689]LogModuleManager: Shutting down and abandoning module IntroTutorials (456)
+[2018.04.12-20.38.56:599][689]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (455)
+[2018.04.12-20.38.56:599][689]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (452)
+[2018.04.12-20.38.56:599][689]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (450)
+[2018.04.12-20.38.56:599][689]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (448)
+[2018.04.12-20.38.56:600][689]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (447)
+[2018.04.12-20.38.56:657][689]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (444)
+[2018.04.12-20.38.56:657][689]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (442)
+[2018.04.12-20.38.56:657][689]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (440)
+[2018.04.12-20.38.56:657][689]LogModuleManager: Shutting down and abandoning module InputBindingEditor (438)
+[2018.04.12-20.38.56:657][689]LogModuleManager: Shutting down and abandoning module MergeActors (436)
+[2018.04.12-20.38.56:657][689]LogModuleManager: Shutting down and abandoning module SizeMap (434)
+[2018.04.12-20.38.56:657][689]LogModuleManager: Shutting down and abandoning module TreeMap (432)
+[2018.04.12-20.38.56:657][689]LogModuleManager: Shutting down and abandoning module ReferenceViewer (430)
+[2018.04.12-20.38.56:657][689]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (428)
+[2018.04.12-20.38.56:657][689]LogModuleManager: Shutting down and abandoning module LocalizationService (427)
+[2018.04.12-20.38.56:657][689]LogModuleManager: Shutting down and abandoning module HardwareTargeting (424)
+[2018.04.12-20.38.56:657][689]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (422)
+[2018.04.12-20.38.56:657][689]LogModuleManager: Shutting down and abandoning module UndoHistory (420)
+[2018.04.12-20.38.56:657][689]LogModuleManager: Shutting down and abandoning module XmlParser (418)
+[2018.04.12-20.38.56:657][689]LogModuleManager: Shutting down and abandoning module Blutility (416)
+[2018.04.12-20.38.56:657][689]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (414)
+[2018.04.12-20.38.56:658][689]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (413)
+[2018.04.12-20.38.56:658][689]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (410)
+[2018.04.12-20.38.56:658][689]LogModuleManager: Shutting down and abandoning module SettingsEditor (408)
+[2018.04.12-20.38.56:658][689]LogModuleManager: Shutting down and abandoning module ProjectLauncher (406)
+[2018.04.12-20.38.56:658][689]LogModuleManager: Shutting down and abandoning module SessionFrontend (404)
+[2018.04.12-20.38.56:658][689]LogModuleManager: Shutting down and abandoning module ProfilerClient (402)
+[2018.04.12-20.38.56:658][689]LogModuleManager: Shutting down and abandoning module DeviceManager (400)
+[2018.04.12-20.38.56:658][689]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (399)
+[2018.04.12-20.38.56:712][689]LogModuleManager: Shutting down and abandoning module AutomationController (396)
+[2018.04.12-20.38.56:712][689]LogModuleManager: Shutting down and abandoning module AutomationWindow (394)
+[2018.04.12-20.38.56:712][689]LogModuleManager: Shutting down and abandoning module Layers (392)
+[2018.04.12-20.38.56:712][689]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (390)
+[2018.04.12-20.38.56:712][689]LogModuleManager: Shutting down and abandoning module DetailCustomizations (388)
+[2018.04.12-20.38.56:712][689]LogModuleManager: Shutting down and abandoning module PackagesDialog (386)
+[2018.04.12-20.38.56:712][689]LogModuleManager: Shutting down and abandoning module Persona (384)
+[2018.04.12-20.38.56:712][689]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (383)
+[2018.04.12-20.38.56:712][689]LogModuleManager: Shutting down and abandoning module AnimGraph (381)
+[2018.04.12-20.38.56:712][689]LogModuleManager: Shutting down and abandoning module Kismet (378)
+[2018.04.12-20.38.56:719][689]LogModuleManager: Shutting down and abandoning module ClassViewer (376)
+[2018.04.12-20.38.56:719][689]LogModuleManager: Shutting down and abandoning module Toolbox (374)
+[2018.04.12-20.38.56:719][689]LogModuleManager: Shutting down and abandoning module ModuleUI (372)
+[2018.04.12-20.38.56:719][689]LogModuleManager: Shutting down and abandoning module MovieSceneTools (370)
+[2018.04.12-20.38.56:719][689]LogModuleManager: Shutting down and abandoning module OutputLog (368)
+[2018.04.12-20.38.56:719][689]LogModuleManager: Shutting down and abandoning module GammaUI (366)
+[2018.04.12-20.38.56:719][689]LogModuleManager: Shutting down and abandoning module Documentation (364)
+[2018.04.12-20.38.56:719][689]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (362)
+[2018.04.12-20.38.56:719][689]LogModuleManager: Shutting down and abandoning module MovieScene (360)
+[2018.04.12-20.38.56:719][689]LogModuleManager: Shutting down and abandoning module Niagara (358)
+[2018.04.12-20.38.56:719][689]LogModuleManager: Shutting down and abandoning module NiagaraEditor (357)
+[2018.04.12-20.38.56:719][689]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (354)
+[2018.04.12-20.38.56:719][689]LogModuleManager: Shutting down and abandoning module LauncherPlatform (352)
+[2018.04.12-20.38.56:719][689]LogModuleManager: Shutting down and abandoning module AnalyticsET (350)
+[2018.04.12-20.38.56:719][689]LogModuleManager: Shutting down and abandoning module PortalServices (348)
+[2018.04.12-20.38.56:719][689]LogModuleManager: Shutting down and abandoning module PortalRpc (346)
+[2018.04.12-20.38.56:719][689]LogModuleManager: Shutting down and abandoning module MessagingRpc (344)
+[2018.04.12-20.38.56:719][689]LogModuleManager: Shutting down and abandoning module AIModule (342)
+[2018.04.12-20.38.56:719][689]LogModuleManager: Shutting down and abandoning module GameplayDebugger (341)
+[2018.04.12-20.38.56:719][689]LogModuleManager: Shutting down and abandoning module AITestSuite (339)
+[2018.04.12-20.38.56:719][689]LogModuleManager: Shutting down and abandoning module ProfilerService (336)
+[2018.04.12-20.38.56:752][689]LogModuleManager: Shutting down and abandoning module TaskGraph (334)
+[2018.04.12-20.38.56:752][689]LogModuleManager: Shutting down and abandoning module SteamVRController (332)
+[2018.04.12-20.38.56:752][689]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (330)
+[2018.04.12-20.38.56:752][689]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (328)
+[2018.04.12-20.38.56:752][689]LogModuleManager: Shutting down and abandoning module OculusInput (326)
+[2018.04.12-20.38.56:752][689]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (324)
+[2018.04.12-20.38.56:752][689]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (322)
+[2018.04.12-20.38.56:752][689]LogModuleManager: Shutting down and abandoning module CableComponent (320)
+[2018.04.12-20.38.56:752][689]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (318)
+[2018.04.12-20.38.56:752][689]LogModuleManager: Shutting down and abandoning module AndroidPermission (316)
+[2018.04.12-20.38.56:752][689]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (312)
+[2018.04.12-20.38.56:753][689]LogModuleManager: Shutting down and abandoning module HTML5Networking (310)
+[2018.04.12-20.38.56:753][689]LogModuleManager: Shutting down and abandoning module AlembicImporter (308)
+[2018.04.12-20.38.56:753][689]LogModuleManager: Shutting down and abandoning module AlembicLibrary (307)
+[2018.04.12-20.38.56:753][689]LogModuleManager: Shutting down and abandoning module GeometryCache (306)
+[2018.04.12-20.38.56:753][689]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (305)
+[2018.04.12-20.38.56:753][689]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (300)
+[2018.04.12-20.38.56:753][689]LogModuleManager: Shutting down and abandoning module PluginBrowser (298)
+[2018.04.12-20.38.56:753][689]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (296)
+[2018.04.12-20.38.56:753][689]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (294)
+[2018.04.12-20.38.56:753][689]LogModuleManager: Shutting down and abandoning module DesktopPlatform (293)
+[2018.04.12-20.38.56:753][689]LogModuleManager: Shutting down and abandoning module UObjectPlugin (290)
+[2018.04.12-20.38.56:753][689]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (288)
+[2018.04.12-20.38.56:753][689]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (286)
+[2018.04.12-20.38.56:753][689]LogModuleManager: Shutting down and abandoning module GitSourceControl (284)
+[2018.04.12-20.38.56:753][689]LogModuleManager: Shutting down and abandoning module SourceControl (283)
+[2018.04.12-20.38.56:753][689]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (280)
+[2018.04.12-20.38.56:753][689]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (278)
+[2018.04.12-20.38.56:753][689]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (276)
+[2018.04.12-20.38.56:753][689]LogModuleManager: Shutting down and abandoning module Paper2DEditor (274)
+[2018.04.12-20.38.56:753][689]LogModuleManager: Shutting down and abandoning module MeshPaint (273)
+[2018.04.12-20.38.56:753][689]LogModuleManager: Shutting down and abandoning module LevelEditor (271)
+[2018.04.12-20.38.56:755][689]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (270)
+[2018.04.12-20.38.56:755][689]LogModuleManager: Shutting down and abandoning module MainFrame (268)
+[2018.04.12-20.38.56:755][689]LogModuleManager: Shutting down and abandoning module HotReload (267)
+[2018.04.12-20.38.56:755][689]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (262)
+[2018.04.12-20.38.56:755][689]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (260)
+[2018.04.12-20.38.56:755][689]LogModuleManager: Shutting down and abandoning module PhysXVehicles (258)
+[2018.04.12-20.38.56:755][689]LogModuleManager: Shutting down and abandoning module OculusEditor (256)
+[2018.04.12-20.38.56:755][689]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (254)
+[2018.04.12-20.38.56:755][689]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (252)
+[2018.04.12-20.38.56:755][689]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (250)
+[2018.04.12-20.38.56:755][689]LogModuleManager: Shutting down and abandoning module UdpMessaging (248)
+[2018.04.12-20.38.56:857][689]LogModuleManager: Shutting down and abandoning module TcpMessaging (246)
+[2018.04.12-20.38.56:957][689]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (244)
+[2018.04.12-20.38.56:957][689]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (242)
+[2018.04.12-20.38.56:957][689]LogModuleManager: Shutting down and abandoning module FacialAnimation (240)
+[2018.04.12-20.38.56:957][689]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (238)
+[2018.04.12-20.38.56:957][689]LogModuleManager: Shutting down and abandoning module GraphEditor (237)
+[2018.04.12-20.38.56:957][689]LogModuleManager: Shutting down and abandoning module ContentBrowser (235)
+[2018.04.12-20.38.56:958][689]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (232)
+[2018.04.12-20.38.56:958][689]LogModuleManager: Shutting down and abandoning module Paper2D (230)
+[2018.04.12-20.38.56:958][689]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (228)
+[2018.04.12-20.38.56:958][689]LogModuleManager: Shutting down and abandoning module WmfMedia (226)
+[2018.04.12-20.38.56:959][689]LogModuleManager: Shutting down and abandoning module PacketHandler (224)
+[2018.04.12-20.38.56:959][689]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (222)
+[2018.04.12-20.38.56:959][689]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (220)
+[2018.04.12-20.38.56:959][689]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.04.12-20.38.56:959][689]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.04.12-20.38.56:959][689]LogModuleManager: Shutting down and abandoning module MediaAssets (214)
+[2018.04.12-20.38.56:959][689]LogModuleManager: Shutting down and abandoning module VREditor (212)
+[2018.04.12-20.38.56:959][689]LogModuleManager: Shutting down and abandoning module StringTableEditor (210)
+[2018.04.12-20.38.56:960][689]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (208)
+[2018.04.12-20.38.56:960][689]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (206)
+[2018.04.12-20.38.56:960][689]LogModuleManager: Shutting down and abandoning module FunctionalTesting (204)
+[2018.04.12-20.38.56:960][689]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (202)
+[2018.04.12-20.38.56:960][689]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (201)
+[2018.04.12-20.38.56:960][689]LogModuleManager: Shutting down and abandoning module UMG (198)
+[2018.04.12-20.38.56:960][689]LogModuleManager: Shutting down and abandoning module UMGEditor (197)
+[2018.04.12-20.38.56:960][689]LogModuleManager: Shutting down and abandoning module Sequencer (196)
+[2018.04.12-20.38.56:960][689]LogModuleManager: Shutting down and abandoning module MessageLog (193)
+[2018.04.12-20.38.56:960][689]LogModuleManager: Shutting down and abandoning module SlateReflector (188)
+[2018.04.12-20.38.56:960][689]LogModuleManager: Shutting down and abandoning module Slate (186)
+[2018.04.12-20.38.56:960][689]LogModuleManager: Shutting down and abandoning module EditorStyle (184)
+[2018.04.12-20.38.56:963][689]LogModuleManager: Shutting down and abandoning module MRMesh (182)
+[2018.04.12-20.38.56:963][689]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (180)
+[2018.04.12-20.38.56:963][689]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (178)
+[2018.04.12-20.38.56:963][689]LogModuleManager: Shutting down and abandoning module XAudio2 (176)
+[2018.04.12-20.38.56:963][689]LogModuleManager: Shutting down and abandoning module Networking (174)
+[2018.04.12-20.38.56:963][689]LogModuleManager: Shutting down and abandoning module Core (170)
+[2018.04.12-20.38.56:963][689]LogModuleManager: Shutting down and abandoning module KismetCompiler (166)
+[2018.04.12-20.38.56:963][689]LogModuleManager: Shutting down and abandoning module LevelSequence (164)
+[2018.04.12-20.38.56:963][689]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.04.12-20.38.56:963][689]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.04.12-20.38.56:963][689]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.04.12-20.38.56:963][689]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.04.12-20.38.56:963][689]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.04.12-20.38.56:963][689]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.04.12-20.38.56:963][689]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.04.12-20.38.56:963][689]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (148)
+[2018.04.12-20.38.56:969][689]LogModuleManager: Shutting down and abandoning module DerivedDataCache (146)
+[2018.04.12-20.38.57:043][689]LogDerivedDataCache: Shutdown
+[2018.04.12-20.38.57:043][689]LogModuleManager: Shutting down and abandoning module TargetPlatform (144)
+[2018.04.12-20.38.57:043][689]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (143)
+[2018.04.12-20.38.57:043][689]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (141)
+[2018.04.12-20.38.57:043][689]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (139)
+[2018.04.12-20.38.57:043][689]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (137)
+[2018.04.12-20.38.57:043][689]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (135)
+[2018.04.12-20.38.57:043][689]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (133)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (131)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (129)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (127)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (125)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module ImageWrapper (124)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (121)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (119)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (117)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (115)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (113)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (111)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (109)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (107)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (105)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module Messaging (103)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (101)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (99)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (83)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (81)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (79)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (77)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (75)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (73)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (71)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (69)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (67)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (65)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module InputCore (62)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module Settings (60)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module PhysXCooking (58)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module SteamVR (56)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module OculusHMD (54)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module LeapMotion (52)
+[2018.04.12-20.38.57:044][689]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2018.04.12-20.38.57:045][689]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.04.12-20.38.57:045][689]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.04.12-20.38.57:045][689]LogOnline: Display: Unloading online subsystem: NULL
+[2018.04.12-20.38.57:045][689]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.04.12-20.38.57:045][689]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.04.12-20.38.57:045][689]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.04.12-20.38.57:045][689]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B925BC2E7-4E60-0068-1369-33AC27D215D6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.1-3586342%2B%2B%2BUE4%2BRelease-4.17&UserID=37d515aa432c097c8dcce2a7fa5c8433%7C6959ef8b0d9e4fbf8d98a980baed5fcb%7Caeefce56-458d-49ec-b1f8-587712ccc7d8&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.04.12-20.38.57:065][689]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.04.12-20.38.57:068][689]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.04.12-20.38.57:068][689]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.04.12-20.38.57:068][689]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.04.12-20.38.57:069][689]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.04.12-20.38.57:069][689]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.04.12-20.38.57:069][689]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.04.12-20.38.57:069][689]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.04.12-20.38.57:074][689]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.04.12-20.38.57:074][689]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.04.12-20.38.57:074][689]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.04.12-20.38.57:074][689]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.04.12-20.38.57:074][689]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.04.12-20.38.57:074][689]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.04.12-20.38.57:074][689]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.04.12-20.38.57:074][689]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.04.12-20.38.57:074][689]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.04.12-20.38.57:074][689]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.04.12-20.38.57:074][689]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.04.12-20.38.57:077][689]LogExit: Exiting.
+[2018.04.12-20.38.57:113][689]Log file closed, 04/12/18 21:38:57
